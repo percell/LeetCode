@@ -1,4 +1,4 @@
-ass Vector2D {
+class Vector2D {
 public:
     vector<vector<int>>::iterator vit;
     vector<int>::iterator it;

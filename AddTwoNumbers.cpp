@@ -1,4 +1,4 @@
-tion for singly-linked list.
+declaration for singly-linked list.
  * struct ListNode {
  *     int val;
  *     ListNode *next;

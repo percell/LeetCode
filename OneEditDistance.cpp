@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 public:
     bool isOneEditDistance(string s, string t) {
         if(s.length()> t.length()) return isOneEditDistance(t, s);

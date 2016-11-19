@@ -1,4 +1,4 @@
-ass Solution {
+class Solution {
 public:
     string addBinary(string a, string b) {
         if(a.length()>b.length()) return addBinary(b,a);

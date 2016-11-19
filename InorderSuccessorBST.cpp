@@ -1,4 +1,4 @@
-tion for a binary tree node.
+/*declaration for a binary tree node.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;

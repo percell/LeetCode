@@ -1,4 +1,4 @@
-ass Solution {
+class Solution {
 public:
     int numDecodings(string s) {
         if(s.length()==0) return 0;

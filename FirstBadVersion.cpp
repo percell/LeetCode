@@ -1,5 +1,5 @@
 
-ol isBadVersion(int version);
+bool isBadVersion(int version);
 
 class Solution {
 public:

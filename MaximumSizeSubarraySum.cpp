@@ -1,4 +1,4 @@
-ass Solution {
+class Solution {
 public:
     int maxSubArrayLen(vector<int>& nums, int k) {
         if(nums.size() == 0) return 0;
